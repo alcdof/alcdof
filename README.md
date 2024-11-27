@@ -18,3 +18,6 @@
 ![Alcdof's GitHub stats](https://github-readme-stats.vercel.app/api?username=alcdof&show_icons=true&theme=transparent)
 
 #### 📚 Cursando atualmente Engenharia de Computação na UTFPR — Câmpus Pato Branco
+
+![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribuition-grid-snake.svg)
+
