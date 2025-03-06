@@ -1,23 +1,55 @@
+<h1 align="center">Hello! 🙋🏻‍♂️</h1>
 
-## Hello! I'm André Caillot! 🙋🏻‍♂️
+###
 
- ♾️ A student **passionate** about ***math*** and ***physics*** from Brazil.  
- 📚 I'm currently studying **Computer Engineering** at UTFPR — Pato Branco campus
+<h3 align="left">👨🏻‍💻 — About Me</h3>
 
+###
 
-## 📱 - Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andr%C3%A9-luiz-caillot-de-oliveira-filho-0b0a09331/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/alcdof)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreluizfilho@alunos.utfpr.edu.br)
+<p align="left">I'm André Caillot, a student passionate about math and physics.<br><br>- 🔭 I’m studying Computer Engineering at UTFPR - Pato Branco campus<br>- 📚 I'm currently learning C<br>- 🎸 In my free time I like to play guitar</p>
 
-## 💻 - Interests
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+###
 
+<h3 align="left">📲 — Contact</h3>
 
-![Alcdof's GitHub stats](https://github-readme-stats.vercel.app/api?username=alcdof&show_icons=true&theme=transparent)
+###
 
-> "Can you hear the music, Robert?"  
-> — Niels Bohr
+<div align="left">
+  <a href="https://www.linkedin.com/in/alcdof/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+</div>
+
+###
+
+<h3 align="left">💻 — Languages and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/alcdof/alcdof/output/snake.svg" alt="Snake animation" />
+
+###
