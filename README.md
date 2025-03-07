@@ -4,8 +4,9 @@
 
 
 ♾️ I'm a student passionate about math and physics.  
-📚 Studying Computer Engineering at UTFPR - Pato Branco campus.
-
+📚 Studying Computer Engineering at UTFPR - Pato Branco campus.  
+📩 Find me at <a href="mailto:andreluizfilho@alunos.utfpr.edu.br
+">andreluizfilho@alunos.utfpr.edu.br</a> 
 ###
 
 <h3 align="left">Contact:</h3>
