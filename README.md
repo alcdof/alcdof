@@ -1,11 +1,5 @@
-<h1 align="center">Hello, I'm André Caillot Filho 🙋🏻‍♂️</h1>
-<h3 align="center">
-
-
-
-♾️ I'm a student passionate about math and physics.  
-📚 Studying Computer Engineering at UTFPR - Pato Branco campus.  
-📩 Find me at <a href="mailto:andreluizfilho@alunos.utfpr.edu.br
+  📚 Studying Computer Engineering at UTFPR - Pato Branco campus.  
+ <a href="mailto:andreluizfilho@alunos.utfpr.edu.br
 ">andreluizfilho@alunos.utfpr.edu.br</a> 
 ###
 
